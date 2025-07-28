@@ -2,8 +2,11 @@
 ### Estudante de Desenvolvimento de Sistemas 👩‍💻
 🎓Me chamo Leonardo Rodrigues de Oliveira!
 Atualmente estou cursando Desenvolvimento de Sistemas no SENAI Jacob Lafer e sigo evoluindo na área de tecnologia.
+<br>
 📚 Também estou aprimorando meu inglês e desenvolvendo habilidades em design e programação. 
+<br>
 📘 Tenho interesse em programação, design e pretendo ingressar em uma faculdade de T.I em breve.
+<br>
 📍 ABC - São Paulo  
 
 
