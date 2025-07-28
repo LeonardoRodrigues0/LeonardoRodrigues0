@@ -1,16 +1,18 @@
-## Hi there 👋
+Estudante de Desenvolvimento de Sistemas 👨‍💻
+🎓 Me chamo Leonardo Rodrigues de Oliveira!
+Atualmente estou cursando Desenvolvimento de Sistemas no SENAI Jacob Lafer e sigo evoluindo na área de tecnologia.
+📘 Tenho interesse em programação, design e pretendo ingressar em uma faculdade de T.I em breve.
+🗣️ Também estou estudando inglês para ampliar minhas oportunidades na área.
 
-<!--
-**LeonardoRodrigues0/LeonardoRodrigues0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 São Paulo - SP
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tecnologias que estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+🛠️ Ferramentas que utilizo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" />
+📊 Estatísticas do GitHub
+<div> <a href="https://github.com/seu-usuario-aqui"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&langs_count=7&theme=dracula"/> </a> </div>
+🏆 Projeto em Destaque
+🎬 CineHome - Sistema de Locadora
+Projeto web com HTML, CSS, PHP e Bootstrap.
+Inclui login, cadastro, sinopses em modal e gerenciamento de produtos.
