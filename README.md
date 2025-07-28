@@ -25,10 +25,10 @@ Atualmente estou cursando Desenvolvimento de Sistemas no SENAI Jacob Lafer e sig
   ## 📊 Estatísticas do GitHub
    <div>
     <a href="https://github.com/seu-usuário-aqui">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasBorba&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRodrigues0&layout=compact&langs_count=7&theme=dracula"/>
    </div>
 
 
 ## 🌐 Conecte-se comigo
 
-![Gmail Badge](https://img.shields.io/badge/-madusantosrosa101@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/-leonardo091007@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
