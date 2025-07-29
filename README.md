@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Olá! Bem-vindo ao meu perfil no Github.
 ### Estudante de Desenvolvimento de Sistemas 👩‍💻
 🎓Me chamo Leonardo Rodrigues de Oliveira!
 Atualmente estou cursando Desenvolvimento de Sistemas no SENAI Jacob Lafer e sigo evoluindo na área de tecnologia.
